@@ -104,7 +104,7 @@
 
 ---
 
-# Test Case 10: Maximizing the Calculator Screen
+# Test Case 9: Maximizing the Calculator Screen
 - Test Case ID: TC_MAX_10
 - Test Description: Verify that the calculator works properly when the screen is maximized.
 - Preconditions: The calculator application is open and running.
