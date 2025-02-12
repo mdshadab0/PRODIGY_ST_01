@@ -1,9 +1,9 @@
 # Compatibility Testing Report
 
 ## Test Summary
-- **Website:** [Demo Website](#)
-- **Test Date:** [Insert Date]
-- **Tester:** [Your Name]
+- **Website:** [E-Com Website](#)
+- **Test Date:** [12-02-2025]
+- **Tester:** [Mohammed Shadabs]
 - **Tested Browsers & Devices:**
   - Google Chrome (Laptop)
   - Mozilla Firefox (Laptop)
