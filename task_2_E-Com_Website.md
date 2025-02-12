@@ -3,7 +3,7 @@
 ## Test Summary
 - **Website:** [E-Com Website](#)
 - **Test Date:** [12-02-2025]
-- **Tester:** [Mohammed Shadabs]
+- **Tester:** [Mohammed Shadab]
 - **Tested Browsers & Devices:**
   - Google Chrome (Laptop)
   - Mozilla Firefox (Laptop)
