@@ -38,7 +38,11 @@ This project automates the login testing for [SauceDemo](https://www.saucedemo.c
 | Empty Fields | Ensures login fails when fields are left empty |
 
 ## 📸 Screenshot
-![Demo](screenshot.png) *(Add a screenshot of your test execution here)*
+![image](https://github.com/user-attachments/assets/4a8e5685-a8ad-4a2e-b868-f139b9b653e0)
+![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6fa87f87-ccc1-40c6-b9f9-f007a17cef97)
+![Uploading image.png…]()
+
 
 ## 📜 License
 This project is **open-source** and free to use. Feel free to contribute! 😊
